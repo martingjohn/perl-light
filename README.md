@@ -1,5 +1,5 @@
 # perl-light
-Lightweight perl container as I was astounded that the size of the default perl container was 879 MB
+Lightweight perl container as I was astounded that the size of the default perl container was 879 MB, this is 38MB
 
 If run with no arguments it prints the perl version
 
